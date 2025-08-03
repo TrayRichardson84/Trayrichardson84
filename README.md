@@ -13,8 +13,8 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |<a href="https://docs.google.com/document/d/1GzrzyoIlgsl_zldm-lQsrgh4ldSlFYJLPbZ8NaXO2go/edit?usp=sharing" target="_blank">Runbook</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Runbook for New Hire Onboarding         |<a href="https://docs.google.com/document/d/1GzrzyoIlgsl_zldm-lQsrgh4ldSlFYJLPbZ8NaXO2go/edit?usp=sharing" target="_blank">Runbook</a>|
+| Network Security and Traffic Analysis | [Analysis Lab](https://tryhackme.com/module/network-security-and-traffic-analysis) |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
